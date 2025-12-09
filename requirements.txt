@@ -3,8 +3,7 @@ tensorflow
 numpy
 pillow
 scikit-learn
-matplotlib
 opencv-python
-seaborn
-
-
+matplotlib
+plotly
+streamlit-lottie
